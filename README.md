@@ -47,3 +47,16 @@ npm i react-router-dom
     </Routes>
 </BrowserRouter>
 ```
+
+### Json-server
+```
+npm i json-server
+```
+package.json
+```json
+{
+  "scripts" : {
+    "server": "json-server --watch data/cities.json --port 3600 -delay 500"
+  }
+}
+```
