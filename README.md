@@ -14,7 +14,7 @@ Currently, two official plugins are available:
 ```
 npm i eslint vite-plugin-eslint eslint-config-react-app --save-dev 
 ```
-new File -> .eslintrc.json
+new File -> .eslintrc
 ```json
 {
   "extends": "react-app"
@@ -59,4 +59,9 @@ package.json
     "server": "json-server --watch data/cities.json --port 3600 -delay 500"
   }
 }
+```
+
+### react-leaflet
+```angular2html
+npm i react-leaflet leaflet
 ```
