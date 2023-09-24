@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "L'Abbaye",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2023-09-24T10:19:14.370Z",
+      "notes": "hello",
+      "position": {
+        "lat": "46.604167162931844",
+        "lng": "6.284179687500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Tamames",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-24T10:22:05.950Z",
+      "notes": "",
+      "position": {
+        "lat": "40.66397287638688",
+        "lng": "-6.04248046875"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Saint-Remy-sur-Durolle",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-24T10:23:38.442Z",
+      "notes": "",
+      "position": {
+        "lat": "45.89000815866184",
+        "lng": "3.5595703125"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Amance",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-24T10:25:35.103Z",
+      "notes": "ya",
+      "position": {
+        "lat": "48.29781249243716",
+        "lng": "4.548339843750001"
+      },
+      "id": 98443201
     }
   ]
 }
