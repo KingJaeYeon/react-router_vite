@@ -61,7 +61,7 @@ package.json
 }
 ```
 
-### react-leaflet
+### React-leaflet
 ```angular2html
 npm i react-leaflet leaflet
 ```
@@ -69,4 +69,9 @@ npm i react-leaflet leaflet
 https://react-leaflet.js.org/
 //index.css
 @import "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+```
+
+### React-datepicker
+```angular2html
+ npm i react-datepicker
 ```
