@@ -56,7 +56,7 @@ package.json
 ```json
 {
   "scripts" : {
-    "server": "json-server --watch data/cities.json --port 3600 -delay 500"
+    "server": "json-server --watch data/cities.json --port 3600 --delay 500"
   }
 }
 ```
