@@ -37,14 +37,14 @@
       "id": 98443201
     },
     {
-      "cityName": "Knullwald",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2023-09-24T11:54:54.495Z",
-      "notes": "hello",
+      "cityName": "Guri-si",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2023-09-24T23:16:41.830Z",
+      "notes": "",
       "position": {
-        "lat": "51.055207338584964",
-        "lng": "9.514160156250002"
+        "lat": "37.57519411111454",
+        "lng": "127.11456354490682"
       },
       "id": 98443202
     }
